@@ -1,0 +1,1 @@
+print("Implementación de una fantasìa de código")
