@@ -1,2 +1,1 @@
-print("Hello World")
-print("oloolo∫")
+print("Reading data from data/dataset.csv")
